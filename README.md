@@ -1,5 +1,5 @@
 <img align ="center" width ="100%" src ="https://media2.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e4716cwnkxb9bsn6sil6kdrytawxym5mb9p36tec4q4&rid=giphy.gif&ct=g" alt =""/>
-<h1 align="center">Hi 👋, I'm Niraj Pal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niraj Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppalniraj1996&label=Profile%20views&color=0e75b6&style=flat" alt="ppalniraj1996" /> </p>
