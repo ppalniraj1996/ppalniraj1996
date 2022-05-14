@@ -1,4 +1,4 @@
-<img align ="center" width ="100%" height="150" src="https://media.giphy.com/media/YlY5oyV9VxOJi53Ynq/giphy.gif" alt =""/>
+<img align ="center" width ="100%" height="250" src="https://media.giphy.com/media/YlY5oyV9VxOJi53Ynq/giphy.gif" alt =""/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niraj Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
