@@ -1,4 +1,4 @@
-<img align ="center" src ="https://media2.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e4716cwnkxb9bsn6sil6kdrytawxym5mb9p36tec4q4&rid=giphy.gif&ct=g" alt =""/>
+<img align ="center" width ="100%" src ="https://media2.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e4716cwnkxb9bsn6sil6kdrytawxym5mb9p36tec4q4&rid=giphy.gif&ct=g" alt =""/>
 <h1 align="center">Hi 👋, I'm Niraj Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
