@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Niraj Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passinate learner who's always willing to learn and work across technologies and domains .I Love to mexplore new
+  technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structured and Algorithms.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppalniraj1996&label=Profile%20views&color=0e75b6&style=flat" alt="ppalniraj1996" /> </p>
 
